@@ -57,4 +57,4 @@ var nihlinkgenerate = function(arr, config){
 }
 // Example
 // nihlinkgenerate(['anasrar.github.io', 'codepen.io'], {url: 'https://nihlink.blogspot.com', page: 'p/lanjut.html', keyit: 'AnasRAR', countdown: true})
-// ([blacklist domain in array], {config json}) 
+// ([blacklist domain in array], {config json})
